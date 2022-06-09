@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="163px" height="68px" viewBox="0 0 163 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Card top bar</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(0.000000, -0.000000)">
+            <path d="M163,68 L4,68 C1.790861,68 2.705415e-16,66.209139 0,64 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 L163,0 L163,68 Z" id="Top-bar-background" fill="#F62459"></path>
+            <path d="M64.8280804,37.0034813 L56.6794639,28.8425058 C54.4401787,26.5998243 54.4401787,22.9261351 56.6794639,20.6834537 L56.6794639,20.6834537 C58.9206695,18.4388488 62.5868748,18.4388488 64.8280804,20.6834537 L72.9766969,28.8425058 C74.9202274,30.7889841 75.1775724,33.8106415 73.7487318,36.0417826" id="Stroke-1" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round"></path>
+            <path d="M79.2102061,39.7700963 L75.7379698,39.7700963 C72.5691701,39.7700963 69.9765157,37.1735097 69.9765157,33.9999038" id="Stroke-3" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round"></path>
+            <line x1="86.5514509" y1="39.7700963" x2="84.0106496" y2="39.7700963" id="Stroke-5" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round"></line>
+            <path d="M84.0114178,28.2297114 L87.2608779,28.2297114 C90.4296776,28.2297114 93.022332,30.826298 93.022332,33.9999038 L93.022332,33.9999038" id="Stroke-7" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round"></path>
+            <line x1="76.1808336" y1="28.2297114" x2="79.2094379" y2="28.2297114" id="Stroke-9" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round"></line>
+            <path d="M98.1719196,30.9965187 L106.320536,39.1574942 C108.559821,41.4001757 108.559821,45.0738649 106.320536,47.3165463 L106.320536,47.3165463 C104.079331,49.5611512 100.413125,49.5611512 98.1719196,47.3165463 L90.0233031,39.1574942 C88.0624882,37.1937054 87.8185867,34.1355034 89.2896779,31.8985921" id="Stroke-11" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round"></path>
+            <line x1="81.5" y1="19.0841486" x2="81.5" y2="21.0614013" id="Stroke-13" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round"></line>
+            <line x1="76.4568072" y1="21.0614013" x2="77.8529996" y2="22.4597112" id="Stroke-15" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round"></line>
+            <line x1="86.5431928" y1="21.0614013" x2="85.1470004" y2="22.4597112" id="Stroke-17" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round"></line>
+            <line x1="81.5" y1="48.915659" x2="81.5" y2="46.9384064" id="Stroke-19" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round"></line>
+            <line x1="86.5431928" y1="46.9384064" x2="85.1470004" y2="45.5400964" id="Stroke-21" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round"></line>
+            <line x1="76.4568072" y1="46.9384064" x2="77.8529996" y2="45.5400964" id="Stroke-23" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round"></line>
+        </g>
+    </g>
+</svg>

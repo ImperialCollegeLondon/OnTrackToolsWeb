@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="116px" height="30px" viewBox="0 0 116 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="OnTrack-Tools-screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Team" transform="translate(-114.000000, -188.000000)">
+            <g id="Table" transform="translate(94.000000, 125.000000)">
+                <g id="Group" transform="translate(21.000000, 64.000000)">
+                    <text id="Add-a-filter" font-family="SFProText-Regular, SF Pro Text" font-size="14" font-weight="normal" fill="#FF5252">
+                        <tspan x="21.3994141" y="19">Add a filter</tspan>
+                    </text>
+                    <path d="M14,0 L100,0 C107.731986,-1.42034288e-15 114,6.2680135 114,14 C114,21.7319865 107.731986,28 100,28 L14,28 C6.2680135,28 9.46895252e-16,21.7319865 0,14 C-9.46895252e-16,6.2680135 6.2680135,1.42034288e-15 14,0 Z" id="Rectangle" stroke="#FF5252" stroke-dasharray="4"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

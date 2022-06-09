@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Tools/Glyphs/Stats Inactive</title>
+    <g id="Tools/Glyphs/Stats-Inactive" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M0.604047625,1 C0.269909811,1 0,1.28061549 0,1.61591915 L0,25.9702038 C0,26.3043416 0.269915899,26.5742514 0.604047625,26.5742514 L27.3959524,26.5742514 C27.7300902,26.5742514 28,26.3043355 28,25.9702038 C28,25.6253816 27.7300841,25.3554718 27.3959524,25.3554718 L1.21893182,25.3554718 L1.21893182,1.61607135 C1.21893182,1.28074638 0.949015924,1 0.604199824,1 L0.604047625,1 Z M20,8 L20,23 L25,23 L25,8 L20,8 Z M12,13 L12,23 L17,23 L17,13 L12,13 Z M4,11 L4,23 L9,23 L9,11 L4,11 Z" id="Shape" fill="#9E9E9E" fill-rule="nonzero"></path>
+    </g>
+</svg>

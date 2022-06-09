@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="499px" height="202px" viewBox="0 0 499 202" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 10</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-10">
+            <rect id="Rectangle" x="0" y="0" width="468" height="180"></rect>
+            <rect id="Rectangle" fill="#9E9E9E" x="35" y="179" width="433" height="1"></rect>
+            <line x1="35" y1="139.5" x2="468" y2="139.5" id="Line-5-Copy-2" stroke="#BDC3C7" stroke-dasharray="3"></line>
+            <line x1="34.5" y1="17.5" x2="468" y2="17.5" id="Line-5-Copy-3" stroke="#BDC3C7" stroke-dasharray="3"></line>
+            <line x1="35" y1="98.5" x2="468" y2="98.5" id="Line-5-Copy-4" stroke="#BDC3C7" stroke-dasharray="3"></line>
+            <line x1="34.5" y1="58.5" x2="468" y2="58.5" id="Line-5-Copy-5" stroke="#BDC3C7" stroke-dasharray="3"></line>
+            <text id="0’" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" letter-spacing="-0.289411662" fill="#BDC3C7">
+                <tspan x="0" y="183">0’</tspan>
+            </text>
+            <text id="Mon" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" letter-spacing="-0.289411662" fill="#9E9E9E">
+                <tspan x="41.1440784" y="199">Mon</tspan>
+            </text>
+            <text id="Tue" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" letter-spacing="-0.289411662" fill="#9E9E9E">
+                <tspan x="109.139196" y="199">Tue</tspan>
+            </text>
+            <text id="Wed" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" letter-spacing="-0.289411662" fill="#9E9E9E">
+                <tspan x="173.807164" y="199">Wed</tspan>
+            </text>
+            <text id="Thu" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" letter-spacing="-0.289411662" fill="#9E9E9E">
+                <tspan x="240.564977" y="199">Thu</tspan>
+            </text>
+            <text id="Fri" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" letter-spacing="-0.289411662" fill="#9E9E9E">
+                <tspan x="311.238805" y="199">Fri</tspan>
+            </text>
+            <text id="Sat" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" letter-spacing="-0.289411662" fill="#9E9E9E">
+                <tspan x="376.120641" y="199">Sat</tspan>
+            </text>
+            <text id="Sun" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" letter-spacing="-0.289411662" fill="#9E9E9E">
+                <tspan x="440.605992" y="199">Sun</tspan>
+            </text>
+            <text id="50’" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" letter-spacing="-0.289411662" fill="#BDC3C7">
+                <tspan x="0" y="143">50’</tspan>
+            </text>
+            <text id="100’" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" letter-spacing="-0.289411662" fill="#BDC3C7">
+                <tspan x="0" y="103">100’</tspan>
+            </text>
+            <text id="110" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" letter-spacing="-0.289411662" fill="#FF5252">
+                <tspan x="480.118235" y="86">110</tspan>
+            </text>
+            <text id="150’" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" letter-spacing="-0.289411662" fill="#BDC3C7">
+                <tspan x="0" y="63">150’</tspan>
+            </text>
+            <text id="200’" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" letter-spacing="-0.289411662" fill="#BDC3C7">
+                <tspan x="0" y="23">200’</tspan>
+            </text>
+            <rect id="Rectangle" fill="#BDC3C7" x="35" y="84" width="35" height="95"></rect>
+            <rect id="Rectangle-Copy-9" fill="#BDC3C7" x="101" y="126" width="35" height="53"></rect>
+            <rect id="Rectangle-Copy-13" fill="#7BEFB2" x="168" y="43" width="35" height="136"></rect>
+            <rect id="Rectangle-Copy-21" fill="#BDC3C7" x="234" y="84" width="35" height="95"></rect>
+            <rect id="Rectangle-Copy-22" fill="#BDC3C7" x="300" y="152" width="35" height="27"></rect>
+            <rect id="Rectangle-Copy-23" x="367" y="84" width="35" height="95"></rect>
+            <rect id="Rectangle-Copy-24" x="433" y="84" width="35" height="95"></rect>
+            <line x1="34.5" y1="89.5" x2="498.5" y2="89.5" id="Line-5-Copy-6" stroke="#FF5252" stroke-dasharray="3"></line>
+        </g>
+    </g>
+</svg>

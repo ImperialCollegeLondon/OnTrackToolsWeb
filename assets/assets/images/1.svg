@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="220px" height="220px" viewBox="0 0 220 220" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Clients pie</title>
+    <g id="OnTrack-Tools-screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Stats-Copy-2" transform="translate(-349.000000, -131.000000)">
+            <g id="Clients-pie" transform="translate(349.000000, 131.000000)">
+                <rect id="Rectangle-Copy-32" fill="#FFFFFF" x="0" y="0" width="220" height="220" rx="3"></rect>
+                <text id="5/23" font-family="SFProText-Regular, SF Pro Text" font-size="30" font-weight="normal" fill="#212121">
+                    <tspan x="77.2607422" y="114">5/23</tspan>
+                </text>
+                <circle id="Oval" stroke="#E0E0E0" stroke-width="15" cx="109.5" cy="109.5" r="69"></circle>
+                <path d="M178.584808,111.688301 C178.584808,69.4385177 146.320946,40 107.5,40" id="Path" stroke="#FF5252" stroke-width="15"></path>
+                <text id="22%-CLIENTS" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" fill="#212121">
+                    <tspan x="71.0585938" y="132">22% CLIENTS</tspan>
+                </text>
+                <text id="Title-Copy-31" font-family="SFProText-Semibold, SF Pro Text" font-size="13" font-weight="500" letter-spacing="-0.3135293" fill="#212121">
+                    <tspan x="7" y="20">Clients</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="14px" viewBox="0 0 140 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.000000, 0.000000)">
+            <text id="Target" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" line-spacing="12.6" fill="#212121">
+                <tspan x="13" y="11">Target</tspan>
+            </text>
+            <text id="Actual" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" line-spacing="12.6" fill="#212121">
+                <tspan x="84" y="11">Actual</tspan>
+            </text>
+            <circle id="Oval-Copy-8" stroke="#9E9E9E" stroke-width="0.5" fill="#FFCDD2" cx="5" cy="7" r="5"></circle>
+            <circle id="Oval-Copy-10" stroke="#9E9E9E" stroke-width="0.5" fill="#F62459" cx="74" cy="7" r="5"></circle>
+            <circle id="Oval-Copy-9" stroke="#9E9E9E" stroke-width="0.5" fill="#7BEFB2" cx="67" cy="7" r="5"></circle>
+        </g>
+    </g>
+</svg>

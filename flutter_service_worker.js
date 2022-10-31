@@ -4,25 +4,29 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "db26f83aa2dd81e17060183e016f3064",
-"index.html": "17ff4af43560ee559e3fba1ed5ccd5ce",
-"/": "17ff4af43560ee559e3fba1ed5ccd5ce",
-"main.dart.js": "747e0f0554d6d66888156d6964f75a24",
+"index.html": "37f4a8c8d5a9ded5fa94574618ae245e",
+"/": "37f4a8c8d5a9ded5fa94574618ae245e",
+"main.dart.js": "a2648a1bb2dedd1a4965ca4ba0613c72",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "3048593c2c43317ad1fff7af220d87fe",
-"assets/AssetManifest.json": "dbeb7da9302ece998ce63acf0edd51ce",
-"assets/NOTICES": "90cec802944237fbe551e562155614ab",
+"assets/AssetManifest.json": "76a64a15db314790906ed73314369e37",
+"assets/NOTICES": "8098222bba35672e724b88809ae1cdca",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
-"assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
+"assets/shaders/ink_sparkle.frag": "dffe842930f829bf4f7f6976855a34bd",
+"assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/assets/images/library_selected.svg": "70b712afd6b9478fd9978a2723cfa1d4",
+"assets/assets/images/password_unselected.svg": "88c7be483d144efdb8c504e1935ce212",
 "assets/assets/images/alert.svg": "22317d7abc5f869a1b44c389ffd02538",
+"assets/assets/images/organisation_unselected.svg": "3a8b2479d42af7be66992eabd74be41d",
 "assets/assets/images/profile_unselected.svg": "ce28432af5732ca85156e825d72f09c5",
+"assets/assets/images/delete_unselected.svg": "2263991ded735cd4d5ab0f4184d47e97",
 "assets/assets/images/empty.svg": "adc7bf5f88e15aa634b9342b5ef1e4a1",
 "assets/assets/images/legend.svg": "44c49b065915fa552594304d6f362f09",
 "assets/assets/images/link.svg": "b5f651a11fce219b45e89879764b67f4",
@@ -63,20 +67,14 @@ const RESOURCES = {
 "assets/assets/images/logo.svg": "5aeb9ba25c1260a3ece398b05264534a",
 "assets/assets/images/profile_selected.svg": "9e0080bc2989feb10c9d3bd50fbf6073",
 "assets/assets/images/logout_unselected.svg": "93d2295ffaa88187555e91e126879df8",
-"assets/assets/images/img4.svg": "bcbdcb39d77dc9faf376ca5cff94ab49",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
+"assets/assets/images/img4.svg": "bcbdcb39d77dc9faf376ca5cff94ab49"
 };
 
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = [
-  "/",
-"main.dart.js",
+  "main.dart.js",
 "index.html",
-"assets/NOTICES",
 "assets/AssetManifest.json",
 "assets/FontManifest.json"];
 // During install, the TEMP cache is populated with the application shell files.
@@ -175,9 +173,11 @@ self.addEventListener("fetch", (event) => {
     .then((cache) =>  {
       return cache.match(event.request).then((response) => {
         // Either respond with the cached resource, or perform a fetch and
-        // lazily populate the cache.
+        // lazily populate the cache only if the resource was successfully fetched.
         return response || fetch(event.request).then((response) => {
-          cache.put(event.request, response.clone());
+          if (response && Boolean(response.ok)) {
+            cache.put(event.request, response.clone());
+          }
           return response;
         });
       })

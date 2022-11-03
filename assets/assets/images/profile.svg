@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tools/Elements/Table/item/Team/admin" transform="translate(-61.000000, -7.000000)">
+            <g id="Group" transform="translate(61.000000, 7.000000)">
+                <circle id="Oval" fill="#EFEFEF" cx="20" cy="20" r="20"></circle>
+                <path d="M25,27 C29.3851168,27 33.2208699,29.3521059 35.3144513,32.8635099 C31.6459168,37.2270494 26.1467871,40 20,40 C14.1877905,40 8.9546516,37.5207044 5.30047551,33.5620057 C7.28358274,29.6673036 11.3303003,27 16,27 L25,27 Z" id="Combined-Shape" fill="#D1D1D1"></path>
+                <circle id="Oval" fill="#D1D1D1" cx="20" cy="15" r="8"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

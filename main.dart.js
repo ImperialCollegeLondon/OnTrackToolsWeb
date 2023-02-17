@@ -28750,13 +28750,13 @@ q=t.X
 A.aUD(a,"/",q,q)
 return A.o(null,r)}})
 return A.p($async$cd,r)},
-cK(){A.xD(B.a6,16,B.hM,"Unable connect to server",B.m,3,B.kB,u.J,"center")},
-cL(){A.xD(B.a6,16,B.hM,"This action is not allowed",B.m,3,B.kB,u.J,"center")},
-bw(a){A.xD(B.a6,16,B.hM,a,B.m,3,B.kB,u.J,"center")},
+cK(){A.xD(B.a6,30,B.hM,"Unable connect to server",B.m,3,B.kB,u.J,"center")},
+cL(){A.xD(B.a6,30,B.hM,"This action is not allowed",B.m,3,B.kB,u.J,"center")},
+bw(a){A.xD(B.a6,30,B.hM,a,B.m,3,B.kB,u.J,"center")},
 fY(a){var s=0,r=A.q(t.z)
 var $async$fY=A.r(function(b,c){if(b===1)return A.n(c,r)
 while(true)switch(s){case 0:s=2
-return A.j(A.xD(B.aY,16,B.hM,a,B.OK,1,B.ai5,"linear-gradient(to right, #7befb2, #7befb2)","center"),$async$fY)
+return A.j(A.xD(B.aY,30,B.hM,a,B.OK,1,B.ai5,"linear-gradient(to right, #7befb2, #7befb2)","center"),$async$fY)
 case 2:return A.o(null,r)}})
 return A.p($async$fY,r)},
 fX(a,b,c,d,e){A.nf(B.G,!0,new A.ak3(e,d,b,c),a,t.N)},

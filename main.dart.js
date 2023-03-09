@@ -101636,7 +101636,7 @@ A.aH6.prototype={
 $0(){this.a.y="Surname cannot be empty"},
 $S:0}
 A.aH7.prototype={
-$0(){this.a.Q="Password cannot be empty"},
+$0(){this.a.Q="phone number cannot be empty"},
 $S:0}
 A.aH8.prototype={
 $1(a){var s=this.a
@@ -101771,7 +101771,7 @@ A.ael.prototype={
 $0(){var s,r=this.a
 A.aD(r,!1).oi(new A.aej())
 s=t.X
-A.aZL(r,"/",s,s)},
+A.aZL(r,"/auth-login-success",s,s)},
 $S:3}
 A.aej.prototype={
 $1(a){return a.glG()},

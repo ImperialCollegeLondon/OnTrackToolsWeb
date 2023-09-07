@@ -1975,6 +1975,7 @@ ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 args
+logging
 
 Copyright 2013, the Dart project authors. 
 
@@ -4905,6 +4906,7 @@ file_selector_windows
 flutter_lints
 flutter_markdown
 flutter_plugin_android_lifecycle
+go_router
 image_picker_for_web
 image_picker_linux
 image_picker_macos

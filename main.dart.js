@@ -119212,9 +119212,9 @@ return A.b3(A.a([A.ao(p,B.h,B.i,B.f),B.ahW],q),B.h,B.i,B.f,r)},
 $S:730}
 A.a0M.prototype={
 aDO(){var s=null,r=this.d
-if(r===0)return A.dK("assets/images/red_cross.svg",!0,s,s,s)
-else if(0<r&&r<this.c)return A.dK("assets/images/grey_check.svg",!0,s,s,s)
-else return A.dK("assets/images/green_check.svg",!0,s,s,s)},
+if(r===0)return A.dK("assets/images/red_cross.svg",!1,s,s,s)
+else if(0<r&&r<this.c)return A.dK("assets/images/grey_check.svg",!1,s,s,s)
+else return A.dK("assets/images/green_check.svg",!1,s,s,s)},
 D(a){var s=A.fT(15)
 return A.aU(A.pk(s,this.e?this.aDO():B.b0),25,25)}}
 A.a0O.prototype={

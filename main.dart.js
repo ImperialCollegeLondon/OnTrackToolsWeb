@@ -121235,7 +121235,7 @@ case 2:return A.m(null,r)}})
 return A.n($async$DN,r)},
 ag(){this.av()},
 D(a){var s=this,r=null,q=t.p
-return A.aV(A.cv(A.hU(A.a([A.b3(A.a([new A.kK("profile","Profile","Mange your personal profile",new A.b_O(s,a),r),new A.kK("password","Change password","Create a new password",new A.b_P(s,a),r)],q),B.h,B.cL,B.f,r),B.c5,A.b3(A.a([new A.kK("organisation","Therapy team","Team details and change your Organisation ID to swap teams",new A.b_Q(s,a),r),new A.kK("delete","Delete account","Permanently delete all of your data and account",new A.b_R(),r)],q),B.h,B.cL,B.f,r),B.c5,A.b3(A.a([new A.kK("warning","Report an issue","Contact us to report any issues with the app",new A.b_S(s,a),r),new A.kK("info","About OnTrack","Service and privacy information",new A.b_T(s,a),r)],q),B.h,B.cL,B.f,r),B.Mx,A.dK("assets/images/logo_grey.svg",!0,r,r,r),B.tk],q),r,r,r,B.I,!0),r,r),1/0,r)}}
+return A.aV(A.cv(A.hU(A.a([A.b3(A.a([new A.kK("profile","Profile","Mange your personal profile",new A.b_O(s,a),r),new A.kK("password","Change password","Create a new password",new A.b_P(s,a),r)],q),B.h,B.cL,B.f,r),B.c5,A.b3(A.a([new A.kK("organisation","Therapy team","Your team\u2019s contact details",new A.b_Q(s,a),r),new A.kK("delete","Delete account","Permanently delete all of your data and account",new A.b_R(),r)],q),B.h,B.cL,B.f,r),B.c5,A.b3(A.a([new A.kK("warning","Report an issue","Contact us to report any issues with the app",new A.b_S(s,a),r),new A.kK("info","About OnTrack","Service and privacy information",new A.b_T(s,a),r)],q),B.h,B.cL,B.f,r),B.Mx,A.dK("assets/images/logo_grey.svg",!0,r,r,r),B.tk],q),r,r,r,B.I,!0),r,r),1/0,r)}}
 A.b_K.prototype={
 $1(a){var s=null
 return A.kD(s,B.u,A.mD(B.L4,a,!1,!1,!1,!0),B.j,s,B.en,s,s,s)},

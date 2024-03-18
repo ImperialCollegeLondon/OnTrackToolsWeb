@@ -33289,7 +33289,7 @@ case 2:o=e
 s=o!=null?3:4
 break
 case 3:q=Date.now()
-p=A.br("yyyyMMdd-hhmmss",null).bk(new A.bM(q,!1))
+p=A.br("yyyyMMdd-HHmmss",null).bk(new A.bM(q,!1))
 s=5
 return A.e(A.aiz(A.bh4(o,t.S),"activity-"+c+"-"+p+".csv"),$async$Ix)
 case 5:case 4:return A.l(null,r)}})
@@ -33302,7 +33302,7 @@ case 2:o=e
 s=o!=null?3:4
 break
 case 3:q=Date.now()
-p=A.br("yyyyMMdd-hhmmss",null).bk(new A.bM(q,!1))
+p=A.br("yyyyMMdd-HHmmss",null).bk(new A.bM(q,!1))
 s=5
 return A.e(A.aiz(A.bh4(o,t.S),"focus-"+c+"-"+p+".csv"),$async$Iy)
 case 5:case 4:return A.l(null,r)}})
